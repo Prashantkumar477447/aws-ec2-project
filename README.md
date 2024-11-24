@@ -99,8 +99,9 @@ Allow inbound traffic to Jenkins' default port (8080):
      sudo cat /var/lib/jenkins/secrets/initialAdminPassword
      ```
    - Enter it in the browser and follow the setup wizard.
-![Screenshot 2024-11-24 214818](https://github.com/user-attachments/assets/209bf0ef-360b-40fa-a7ae-56322b8b16e0)
 ![Screenshot 2024-11-24 214751](https://github.com/user-attachments/assets/bbc80373-c5c1-444b-8960-15c76e8e45fc)
+![Screenshot 2024-11-24 214818](https://github.com/user-attachments/assets/209bf0ef-360b-40fa-a7ae-56322b8b16e0)
+
 
 ---
 
