@@ -35,7 +35,7 @@ This project demonstrates how to deploy a simple web application (such as Jenkin
      - Allow **HTTP (port 80)** and **SSH (port 22)**.
      - Allow the application's port (e.g., **8080** for Jenkins).
 6. Launch the instance.
-
+![Screenshot 2024-11-06 203912](https://github.com/user-attachments/assets/177b56b8-1fab-489c-ba00-67524e9623f0)
 ---
 
 ### **2. SSH into the EC2 Instance**
@@ -99,6 +99,8 @@ Allow inbound traffic to Jenkins' default port (8080):
      sudo cat /var/lib/jenkins/secrets/initialAdminPassword
      ```
    - Enter it in the browser and follow the setup wizard.
+![Screenshot 2024-11-24 214818](https://github.com/user-attachments/assets/209bf0ef-360b-40fa-a7ae-56322b8b16e0)
+![Screenshot 2024-11-24 214751](https://github.com/user-attachments/assets/bbc80373-c5c1-444b-8960-15c76e8e45fc)
 
 ---
 
