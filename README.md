@@ -43,6 +43,7 @@ Obtain the public IP or DNS of your EC2 instance from the AWS Console. Use the f
 ```bash
 ssh -i <your-key.pem> ubuntu@<your-ec2-public-ip>
 ```
+![ssh](https://github.com/user-attachments/assets/6aaf22c0-59fb-4998-a79d-6757a7d81265)
 
 ---
 
